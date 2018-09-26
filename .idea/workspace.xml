@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77b7cfe5-536b-49cb-ae4f-72e1cbb48580" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/uitest/BaseEngineer/BroswerEngine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uitest/BaseEngineer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uitest/Data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uitest/PageObject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uitest/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/1.打开和关闭浏览器.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/1.打开和关闭浏览器.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/2.driver在不同浏览器上的切换.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/2.driver在不同浏览器上的切换.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/3.元素定位报错中iframe是什么鬼.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/3.元素定位报错中iframe是什么鬼.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/4.页面元素常见操作.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/4.页面元素常见操作.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/5.获取页面上文字字段.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/5.获取页面上文字字段.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/6.字符串切割操作.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/6.字符串切割操作.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/7.异常处理.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/7.异常处理.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/8.如何截图.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/8.如何截图.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/0 Python+Selenium环境搭建.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/0 Python+Selenium环境搭建.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/1 在Chrome、IE浏览器上第一个脚本.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/1 在Chrome、IE浏览器上第一个脚本.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/2 driver和element的一些基本操作.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/2 driver和element的一些基本操作.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/3.打开和关闭浏览器.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/3.打开和关闭浏览器.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/1 Python 如何获取当前项目的路径和相对路径写法.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/1 Python 如何获取当前项目的路径和相对路径写法.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/10 Python中采用unittest管理自动化测试用例使用笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/10 Python中采用unittest管理自动化测试用例使用笔记.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/11 unittest如何执行脚本.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/11 unittest如何执行脚本.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/12 实际项目中构建TestSuite并生成HTML测试报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/12 实际项目中构建TestSuite并生成HTML测试报告.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/2 基于Python的Cross Browser Testing类的创建和调用测试.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/2 基于Python的Cross Browser Testing类的创建和调用测试.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/3 Python中page object的简单实现（一）.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/3 Python中page object的简单实现（一）.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/4 Python中page object的简单实现（二）.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/4 Python中page object的简单实现（二）.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/5 Python实现二次封装一些常用的Selenium页面元素方法.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/5 Python实现二次封装一些常用的Selenium页面元素方法.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/6 Python 2.x中字符串判断相等的奇怪问题.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/6 Python 2.x中字符串判断相等的奇怪问题.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/7 Python中日志类的简单封装.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/7 Python中日志类的简单封装.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/8 Pytho中利用webdriver进行截图.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/8 Pytho中利用webdriver进行截图.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/9 利用HTMLTestRunner生成unittest测试报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/9 利用HTMLTestRunner生成unittest测试报告.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/错误记录/Firefox上执行ActionChains报错，不识别相关命令.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/错误记录/Firefox上执行ActionChains报错，不识别相关命令.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/错误记录/Python执行用例报编码错误.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/错误记录/Python执行用例报编码错误.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/错误记录/element is not attached to the page document.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/错误记录/element is not attached to the page document.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/错误记录/关于元素定位中字符切割参考字符.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/错误记录/关于元素定位中字符切割参考字符.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/错误记录/用cmd下输入pip安装组件报错.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/错误记录/用cmd下输入pip安装组件报错.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestTime.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestPrint.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestPrint.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestPrint.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -77,6 +43,27 @@
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestTime.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestTime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="50" column="3" lean-forward="true" selection-end-line="50" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1759570138/time.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="93" column="4" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -103,8 +90,8 @@
         <option value="$PROJECT_DIR$/OpenChrome/OpenChrome.py" />
         <option value="$PROJECT_DIR$/OpenChrome.py" />
         <option value="$PROJECT_DIR$/TestChrome.py" />
-        <option value="$PROJECT_DIR$/TestTime.py" />
         <option value="$PROJECT_DIR$/uitest/BaseEngineer/BroswerEngine.py" />
+        <option value="$PROJECT_DIR$/TestTime.py" />
       </list>
     </option>
   </component>
@@ -151,6 +138,21 @@
               <item name="uitest" type="462c0819:PsiDirectoryNode" />
               <item name="PageObject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (HelloWorld) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (HelloWorld) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="1759570138" type="70582d5e:PySkeletonsNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -179,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BroswerEngine">
+  <component name="RunManager" selected="Python.TestTime">
     <configuration name="BossSpiderChrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,10 +281,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TestTime" />
         <item itemvalue="Python.BroswerEngine" />
         <item itemvalue="Python.BossSpiderChrome" />
         <item itemvalue="Python.OpenChrome (3)" />
-        <item itemvalue="Python.TestTime" />
         <item itemvalue="Python.TestPrint" />
       </list>
     </recent_temporary>
@@ -304,7 +306,7 @@
     <frame x="1912" y="28" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29794934" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28226778" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -457,20 +459,27 @@
         <state relative-caret-position="-13467" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestTime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestPrint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1759570138/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="4" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="50" column="3" lean-forward="true" selection-end-line="50" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
