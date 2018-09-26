@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b7cfe5-536b-49cb-ae4f-72e1cbb48580" name="Default" comment="" />
+    <list default="true" id="77b7cfe5-536b-49cb-ae4f-72e1cbb48580" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/uitest/BaseEngineer/BroswerEngine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uitest/BaseEngineer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uitest/Data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uitest/PageObject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uitest/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/1.打开和关闭浏览器.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/1.打开和关闭浏览器.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/2.driver在不同浏览器上的切换.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/2.driver在不同浏览器上的切换.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/3.元素定位报错中iframe是什么鬼.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/3.元素定位报错中iframe是什么鬼.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/4.页面元素常见操作.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/4.页面元素常见操作.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/5.获取页面上文字字段.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/5.获取页面上文字字段.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/6.字符串切割操作.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/6.字符串切割操作.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/7.异常处理.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/7.异常处理.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/8.如何截图.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium中级篇/8.如何截图.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/0 Python+Selenium环境搭建.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/0 Python+Selenium环境搭建.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/1 在Chrome、IE浏览器上第一个脚本.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/1 在Chrome、IE浏览器上第一个脚本.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/2 driver和element的一些基本操作.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/2 driver和element的一些基本操作.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/3.打开和关闭浏览器.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium基础篇/3.打开和关闭浏览器.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/1 Python 如何获取当前项目的路径和相对路径写法.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/1 Python 如何获取当前项目的路径和相对路径写法.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/10 Python中采用unittest管理自动化测试用例使用笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/10 Python中采用unittest管理自动化测试用例使用笔记.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/11 unittest如何执行脚本.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/11 unittest如何执行脚本.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/12 实际项目中构建TestSuite并生成HTML测试报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/12 实际项目中构建TestSuite并生成HTML测试报告.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/2 基于Python的Cross Browser Testing类的创建和调用测试.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/2 基于Python的Cross Browser Testing类的创建和调用测试.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/3 Python中page object的简单实现（一）.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/3 Python中page object的简单实现（一）.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/4 Python中page object的简单实现（二）.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/4 Python中page object的简单实现（二）.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/5 Python实现二次封装一些常用的Selenium页面元素方法.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/5 Python实现二次封装一些常用的Selenium页面元素方法.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/6 Python 2.x中字符串判断相等的奇怪问题.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/6 Python 2.x中字符串判断相等的奇怪问题.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/7 Python中日志类的简单封装.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/7 Python中日志类的简单封装.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/8 Pytho中利用webdriver进行截图.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/8 Pytho中利用webdriver进行截图.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/9 利用HTMLTestRunner生成unittest测试报告.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/Python+Selenium框架设计篇/9 利用HTMLTestRunner生成unittest测试报告.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/错误记录/Firefox上执行ActionChains报错，不识别相关命令.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/错误记录/Firefox上执行ActionChains报错，不识别相关命令.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/错误记录/Python执行用例报编码错误.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/错误记录/Python执行用例报编码错误.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/错误记录/element is not attached to the page document.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/错误记录/element is not attached to the page document.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/错误记录/关于元素定位中字符切割参考字符.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/错误记录/关于元素定位中字符切割参考字符.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python+Selenium设计/错误记录/用cmd下输入pip安装组件报错.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python+Selenium设计/错误记录/用cmd下输入pip安装组件报错.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +48,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BossSpiderChrome.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BossSpiderChrome.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BossSpiderChrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="371">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -23,12 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestIE.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestIE.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="TestPrint.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestPrint.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestPrint.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -37,22 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestTime.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestTime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="OpenChrome.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OpenChrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="442">
               <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -70,6 +90,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -81,6 +104,7 @@
         <option value="$PROJECT_DIR$/OpenChrome.py" />
         <option value="$PROJECT_DIR$/TestChrome.py" />
         <option value="$PROJECT_DIR$/TestTime.py" />
+        <option value="$PROJECT_DIR$/uitest/BaseEngineer/BroswerEngine.py" />
       </list>
     </option>
   </component>
@@ -90,6 +114,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -106,12 +131,25 @@
             <path>
               <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="ScreenShot" type="462c0819:PsiDirectoryNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="Tools" type="462c0819:PsiDirectoryNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="BaseEngineer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="uitest" type="462c0819:PsiDirectoryNode" />
+              <item name="PageObject" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BossSpiderChrome">
+  <component name="RunManager" selected="Python.BroswerEngine">
     <configuration name="BossSpiderChrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +198,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="BroswerEngine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/uitest/BaseEngineer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uitest/BaseEngineer/BroswerEngine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="OpenChrome (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,24 +229,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OpenChrome.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="TestChrome (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="HelloWorld" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jasqia\PycharmProjects\HelloWorld\BossSpiderChrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,19 +271,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.TestChrome (1)" />
       <item itemvalue="Python.OpenChrome (3)" />
       <item itemvalue="Python.TestTime" />
       <item itemvalue="Python.TestPrint" />
       <item itemvalue="Python.BossSpiderChrome" />
+      <item itemvalue="Python.BroswerEngine" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BroswerEngine" />
         <item itemvalue="Python.BossSpiderChrome" />
         <item itemvalue="Python.OpenChrome (3)" />
         <item itemvalue="Python.TestTime" />
         <item itemvalue="Python.TestPrint" />
-        <item itemvalue="Python.TestChrome (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -264,30 +302,68 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="28" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29794934" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32997763" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3512304" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3512304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31879196" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31879196" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BossSpiderChrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestPrint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenChrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BossSpiderChrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -331,11 +407,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestPrint.py">
+    <entry file="file://$PROJECT_DIR$/OpenChrome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="442">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BossSpiderChrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uitest/BaseEngineer/BroswerEngine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScreenShot/file_20180926100322.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScreenShot/file_20180926090548.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScreenShot/file_20180925183707.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python+Selenium设计/backup/utrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python+Selenium设计/backup/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13467" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestTime.py">
@@ -348,26 +467,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestIE.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OpenChrome.py">
+    <entry file="file://$PROJECT_DIR$/TestPrint.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BossSpiderChrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
